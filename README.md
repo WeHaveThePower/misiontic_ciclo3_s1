@@ -6,3 +6,4 @@ En este repo vamos a inicializarnos con el uso de git
 
 Esta línea fue creada por Andrés
 
+Esta otra línea es para comprobar que se quedó aprendido
