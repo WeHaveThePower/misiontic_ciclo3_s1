@@ -15,4 +15,6 @@ Esta por Félix
 
 Mafe está creando una línea para editar su archivo
 
+El proyecto consiste en una página -index.html- que contiene la presentación del grupo. Adornado con CSS y un pequeña animación en JS.
+
 
