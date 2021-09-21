@@ -4,10 +4,28 @@ body {
 
 h1 {
   color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
   text-align: center;
 }
 
-p {
+li {
   font-family: verdana;
   font-size: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  transform: translateY(-30%);
+}
+
+button{
+  margin-left: 30%;
+  font-weight: bold;
 }
